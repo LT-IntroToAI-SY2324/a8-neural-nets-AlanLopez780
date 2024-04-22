@@ -7,6 +7,8 @@ geometry: margin=1in
 urlcolor: cyan
 ---
 
+Alan Lopez
+
 In this assignment, we will experiment with a few simple neural networks. The idea is to obtain preliminary answers to questions like "How quickly can a network be trained?" "How reliable (or repeatable) is the training?" and "How accurate is the resulting network?"
 
 For this assignment, you will do some work at the python interpreter. Save a summary of what you do (python commands and all) in a google doc and submit to google classroom.
